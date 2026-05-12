@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohit Ramawat</h1>
+<div align="center">
 
-<h3 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:a855f7&height=200&section=header&text=Mohit%20Ramawat&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Salesforce%20Developer%20%E2%80%A2%20Generative%20AI&descAlignY=58&descSize=18&descColor=94a3b8" />
+
+</div>
+<!-- <h3 align="center">
 Full-Stack Developer • Generative AI Engineer in Progress • Laravel • Python • Salesforce Apex & LWC • Java
-</h3>
+</h3> -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+%26+Web+Experiences;Learning+LLMs+%26+Generative+AI;Exploring+RAG%2C+Embeddings+%26+AI+Agents;Full-Stack+Developer+with+Creative+Thinking" />
