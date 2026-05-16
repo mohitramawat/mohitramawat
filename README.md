@@ -13,7 +13,6 @@
 # 💫 About Me
 
 - 🚀 Exploring **Generative AI & LLM Engineering**
-- 🧠 Learning **RAG, Embeddings, Chunking & Prompt Engineering**
 - 💻 Building projects using **Laravel, Python, React & Salesforce**
 - 📚 Uploading handwritten AI notes & practical implementations
 - 🌱 Currently improving my knowledge in **AI Systems & Modern Web Development**
