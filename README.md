@@ -60,23 +60,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohitramawat&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-
-<img height="180em" src="https://streak-stats.demolab.com?user=mohitramawat&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitramawat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
